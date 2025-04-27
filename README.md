@@ -20,3 +20,6 @@ You can view the live demo of the app at [Simple Calculator App](https://samuels
 - HTML
 - CSS
 - TypeScript
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Simple-Calculator/blob/main/LICENSE) file for details.
